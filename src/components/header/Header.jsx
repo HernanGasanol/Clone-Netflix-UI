@@ -2,7 +2,7 @@ import React from 'react'
 import {useState , useEffect} from 'react'
 import {headerData} from '../../../data'
 
-import {BsTriangleFill} from 'react-icons/Bs'
+import {BsTriangleFill} from 'react-icons/bs'
 import {BiHelpCircle} from 'react-icons/bi'
 
 const Header = () => {
